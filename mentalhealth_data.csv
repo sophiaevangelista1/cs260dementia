@@ -1,0 +1,1001 @@
+id,Timestamp,Gender,Country,Occupation,self_employed,family_history,treatment,Days_Indoors,Growing_Stress,Changes_Habits,Mental_Health_History,Mood_Swings,Coping_Struggles,Work_Interest,Social_Weakness,mental_health_interview,care_options
+1,8/27/2014 11:29,Female,United States,Corporate,,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+2,8/27/2014 11:31,Female,United States,Corporate,,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+3,8/27/2014 11:32,Female,United States,Corporate,,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+4,8/27/2014 11:37,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,Maybe,Yes
+5,8/27/2014 11:43,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+6,8/27/2014 11:49,Female,Poland,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,Maybe,Not sure
+7,8/27/2014 11:51,Female,Australia,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+8,8/27/2014 11:52,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+9,8/27/2014 12:18,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+10,8/27/2014 12:37,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+11,8/27/2014 12:39,Female,United States,Corporate,No,Yes,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+12,8/27/2014 12:40,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+13,8/27/2014 12:49,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+14,8/27/2014 12:49,Female,Canada,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+15,8/27/2014 12:50,Female,United States,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+16,8/27/2014 12:51,Female,United Kingdom,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,Maybe,No
+17,8/27/2014 12:53,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+18,8/27/2014 12:53,Female,South Africa,Corporate,Yes,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+19,8/27/2014 12:55,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+20,8/27/2014 12:57,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+21,8/27/2014 13:06,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+22,8/27/2014 13:31,Female,Canada,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+23,8/27/2014 13:47,Female,United Kingdom,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+24,8/27/2014 13:49,Female,United States,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+25,8/27/2014 13:55,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+26,8/27/2014 14:11,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+27,8/27/2014 14:13,Female,United States,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+28,8/27/2014 14:13,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+29,8/27/2014 14:16,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+30,8/27/2014 14:19,Female,United States,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+31,8/27/2014 14:27,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+32,8/27/2014 14:31,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+33,8/27/2014 14:52,Female,Sweden,Corporate,No,Yes,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+34,8/27/2014 15:22,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+35,8/27/2014 15:24,Female,Sweden,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+36,8/27/2014 15:29,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+37,8/27/2014 15:34,Female,United States,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+38,8/27/2014 15:35,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+39,8/27/2014 15:36,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,Yes,Yes
+40,8/27/2014 16:02,Female,United States,Corporate,No,Yes,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+41,8/27/2014 16:14,Female,United Kingdom,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+42,8/27/2014 16:19,Female,United Kingdom,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,Maybe,Not sure
+43,8/27/2014 16:21,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+44,8/27/2014 16:25,Female,United States,Corporate,Yes,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+45,8/27/2014 16:27,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+46,8/27/2014 16:35,Female,United States,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+47,8/27/2014 16:42,Female,United States,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+48,8/27/2014 17:08,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+49,8/27/2014 17:32,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+50,8/27/2014 17:37,Female,Canada,Corporate,Yes,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+51,8/27/2014 17:48,Female,Australia,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+52,8/27/2014 17:56,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+53,8/27/2014 18:02,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+54,8/27/2014 18:59,Female,New Zealand,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+55,8/27/2014 19:05,Female,Canada,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+56,8/27/2014 20:33,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+57,8/27/2014 20:48,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+58,8/27/2014 21:54,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,Maybe,Not sure
+59,8/27/2014 22:14,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+60,8/28/2014 1:30,Female,United States,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+61,8/28/2014 1:41,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+62,8/28/2014 1:56,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+63,8/28/2014 2:32,Female,United Kingdom,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+64,8/28/2014 3:29,Female,Australia,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+65,8/28/2014 4:02,Female,Netherlands,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+66,8/28/2014 4:16,Female,Australia,Corporate,No,Yes,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+67,8/28/2014 8:39,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+68,8/28/2014 9:16,Female,United Kingdom,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+69,8/28/2014 9:18,Female,India,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+70,8/28/2014 9:55,Female,Canada,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+71,8/28/2014 11:26,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+72,8/28/2014 11:38,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+73,8/28/2014 11:47,Female,United States,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+74,8/28/2014 11:50,Female,United States,Corporate,Yes,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+75,8/28/2014 12:10,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+76,8/28/2014 12:12,Female,United Kingdom,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,Maybe,No
+77,8/28/2014 13:08,Female,United States,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+78,8/28/2014 13:11,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+79,8/28/2014 13:26,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+80,8/28/2014 13:41,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+81,8/28/2014 14:31,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+82,8/28/2014 14:52,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+83,8/28/2014 16:54,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,Maybe,Yes
+84,8/28/2014 17:12,Female,United Kingdom,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+85,8/28/2014 17:20,Female,United Kingdom,Corporate,No,Yes,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+86,8/28/2014 18:21,Female,United Kingdom,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+87,8/28/2014 18:50,Female,Canada,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+88,8/28/2014 21:41,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+89,8/29/2014 5:57,Female,United Kingdom,Corporate,Yes,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+90,8/29/2014 8:59,Female,Canada,Corporate,Yes,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,Maybe,Yes
+91,8/29/2014 9:02,Female,United Kingdom,Corporate,No,Yes,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+92,8/29/2014 9:14,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+93,8/29/2014 9:23,Female,United States,Corporate,No,Yes,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+94,8/29/2014 9:51,Female,United States,Corporate,No,Yes,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+95,8/29/2014 9:53,Female,United States,Corporate,No,Yes,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+96,8/29/2014 10:06,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+97,8/29/2014 10:59,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+98,8/29/2014 11:11,Female,United States,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+99,8/29/2014 11:23,Female,Canada,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+100,8/29/2014 11:33,Female,United States,Corporate,No,Yes,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+101,8/29/2014 11:53,Female,United States,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+102,8/29/2014 11:54,Female,United States,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,Maybe,No
+103,8/29/2014 12:54,Female,United States,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+104,8/29/2014 14:51,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+105,8/29/2014 16:17,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+106,8/29/2014 17:04,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+107,8/29/2014 21:40,Female,Canada,Corporate,Yes,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+108,8/29/2014 22:08,Female,United States,Corporate,No,Yes,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+109,8/30/2014 19:56,Female,United Kingdom,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+110,9/2/2014 8:24,Female,United Kingdom,Corporate,No,Yes,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,Maybe,Yes
+111,9/4/2014 23:42,Female,United States,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+112,9/8/2014 21:30,Female,United States,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+113,9/20/2014 13:51,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+114,10/2/2014 21:25,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+115,12/1/2014 9:58,Female,Belgium,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Not sure
+116,2/21/2015 4:32,Female,Ireland,Corporate,No,No,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+117,2/21/2015 5:11,Female,United States,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+118,2/21/2015 9:18,Female,United Kingdom,Corporate,No,No,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+119,2/21/2015 18:54,Female,Ireland,Corporate,No,Yes,No,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,Yes
+120,2/24/2015 8:54,Female,United Kingdom,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,Maybe,Yes
+121,6/25/2015 12:24,Female,United States,Corporate,No,Yes,Yes,1-14 days,Yes,No,Yes,Medium,No,No,Yes,No,No
+122,8/27/2014 11:29,Female,United States,Student,,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+123,8/27/2014 11:31,Female,United States,Student,,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+124,8/27/2014 11:32,Female,United States,Student,,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+125,8/27/2014 11:37,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,Maybe,Yes
+126,8/27/2014 11:43,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+127,8/27/2014 11:49,Female,Poland,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,Maybe,Not sure
+128,8/27/2014 11:51,Female,Australia,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+129,8/27/2014 11:52,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+130,8/27/2014 12:18,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+131,8/27/2014 12:37,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+132,8/27/2014 12:39,Female,United States,Student,No,Yes,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+133,8/27/2014 12:40,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+134,8/27/2014 12:49,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+135,8/27/2014 12:49,Female,Canada,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+136,8/27/2014 12:50,Female,United States,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+137,8/27/2014 12:51,Female,United Kingdom,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,Maybe,No
+138,8/27/2014 12:53,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+139,8/27/2014 12:53,Female,South Africa,Student,Yes,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+140,8/27/2014 12:55,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+141,8/27/2014 12:57,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+142,8/27/2014 13:06,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+143,8/27/2014 13:31,Female,Canada,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+144,8/27/2014 13:47,Female,United Kingdom,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+145,8/27/2014 13:49,Female,United States,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+146,8/27/2014 13:55,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+147,8/27/2014 14:11,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+148,8/27/2014 14:13,Female,United States,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+149,8/27/2014 14:13,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+150,8/27/2014 14:16,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+151,8/27/2014 14:19,Female,United States,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+152,8/27/2014 14:27,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+153,8/27/2014 14:31,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+154,8/27/2014 14:52,Female,Sweden,Student,No,Yes,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+155,8/27/2014 15:22,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+156,8/27/2014 15:24,Female,Sweden,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+157,8/27/2014 15:29,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+158,8/27/2014 15:34,Female,United States,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+159,8/27/2014 15:35,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+160,8/27/2014 15:36,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,Yes,Yes
+161,8/27/2014 16:02,Female,United States,Student,No,Yes,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+162,8/27/2014 16:14,Female,United Kingdom,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+163,8/27/2014 16:19,Female,United Kingdom,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,Maybe,Not sure
+164,8/27/2014 16:21,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+165,8/27/2014 16:25,Female,United States,Student,Yes,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+166,8/27/2014 16:27,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+167,8/27/2014 16:35,Female,United States,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+168,8/27/2014 16:42,Female,United States,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+169,8/27/2014 17:08,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+170,8/27/2014 17:32,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+171,8/27/2014 17:37,Female,Canada,Student,Yes,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+172,8/27/2014 17:48,Female,Australia,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+173,8/27/2014 17:56,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+174,8/27/2014 18:02,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+175,8/27/2014 18:59,Female,New Zealand,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+176,8/27/2014 19:05,Female,Canada,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+177,8/27/2014 20:33,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+178,8/27/2014 20:48,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+179,8/27/2014 21:54,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,Maybe,Not sure
+180,8/27/2014 22:14,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+181,8/28/2014 1:30,Female,United States,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+182,8/28/2014 1:41,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+183,8/28/2014 1:56,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+184,8/28/2014 2:32,Female,United Kingdom,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+185,8/28/2014 3:29,Female,Australia,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+186,8/28/2014 4:02,Female,Netherlands,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+187,8/28/2014 4:16,Female,Australia,Student,No,Yes,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+188,8/28/2014 8:39,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+189,8/28/2014 9:16,Female,United Kingdom,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+190,8/28/2014 9:18,Female,India,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+191,8/28/2014 9:55,Female,Canada,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+192,8/28/2014 11:26,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+193,8/28/2014 11:38,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+194,8/28/2014 11:47,Female,United States,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+195,8/28/2014 11:50,Female,United States,Student,Yes,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+196,8/28/2014 12:10,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+197,8/28/2014 12:12,Female,United Kingdom,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,Maybe,No
+198,8/28/2014 13:08,Female,United States,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+199,8/28/2014 13:11,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+200,8/28/2014 13:26,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+201,8/28/2014 13:41,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+202,8/28/2014 14:31,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+203,8/28/2014 14:52,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+204,8/28/2014 16:54,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,Maybe,Yes
+205,8/28/2014 17:12,Female,United Kingdom,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+206,8/28/2014 17:20,Female,United Kingdom,Student,No,Yes,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+207,8/28/2014 18:21,Female,United Kingdom,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+208,8/28/2014 18:50,Female,Canada,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+209,8/28/2014 21:41,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+210,8/29/2014 5:57,Female,United Kingdom,Student,Yes,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+211,8/29/2014 8:59,Female,Canada,Student,Yes,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,Maybe,Yes
+212,8/29/2014 9:02,Female,United Kingdom,Student,No,Yes,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+213,8/29/2014 9:14,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+214,8/29/2014 9:23,Female,United States,Student,No,Yes,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+215,8/29/2014 9:51,Female,United States,Student,No,Yes,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+216,8/29/2014 9:53,Female,United States,Student,No,Yes,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+217,8/29/2014 10:06,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+218,8/29/2014 10:59,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+219,8/29/2014 11:11,Female,United States,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+220,8/29/2014 11:23,Female,Canada,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+221,8/29/2014 11:33,Female,United States,Student,No,Yes,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+222,8/29/2014 11:53,Female,United States,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+223,8/29/2014 11:54,Female,United States,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,Maybe,No
+224,8/29/2014 12:54,Female,United States,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+225,8/29/2014 14:51,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+226,8/29/2014 16:17,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+227,8/29/2014 17:04,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+228,8/29/2014 21:40,Female,Canada,Student,Yes,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+229,8/29/2014 22:08,Female,United States,Student,No,Yes,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+230,8/30/2014 19:56,Female,United Kingdom,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+231,9/2/2014 8:24,Female,United Kingdom,Student,No,Yes,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,Maybe,Yes
+232,9/4/2014 23:42,Female,United States,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+233,9/8/2014 21:30,Female,United States,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+234,9/20/2014 13:51,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+235,10/2/2014 21:25,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+236,12/1/2014 9:58,Female,Belgium,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+237,2/21/2015 4:32,Female,Ireland,Student,No,No,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+238,2/21/2015 5:11,Female,United States,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+239,2/21/2015 9:18,Female,United Kingdom,Student,No,No,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+240,2/21/2015 18:54,Female,Ireland,Student,No,Yes,No,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,Yes
+241,2/24/2015 8:54,Female,United Kingdom,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,Maybe,Yes
+242,6/25/2015 12:24,Female,United States,Student,No,Yes,Yes,Go out Every day,No,Yes,No,Medium,Yes,Maybe,No,No,No
+243,8/27/2014 11:29,Female,United States,Student,,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+244,8/27/2014 11:31,Female,United States,Student,,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+245,8/27/2014 11:32,Female,United States,Student,,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+246,8/27/2014 11:37,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,Maybe,Yes
+247,8/27/2014 11:43,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+248,8/27/2014 11:49,Female,Poland,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,Maybe,Not sure
+249,8/27/2014 11:51,Female,Australia,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+250,8/27/2014 11:52,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+251,8/27/2014 12:18,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+252,8/27/2014 12:37,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+253,8/27/2014 12:39,Female,United States,Student,No,Yes,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+254,8/27/2014 12:40,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+255,8/27/2014 12:49,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+256,8/27/2014 12:49,Female,Canada,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+257,8/27/2014 12:50,Female,United States,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+258,8/27/2014 12:51,Female,United Kingdom,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,Maybe,No
+259,8/27/2014 12:53,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+260,8/27/2014 12:53,Female,South Africa,Student,Yes,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+261,8/27/2014 12:55,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+262,8/27/2014 12:57,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+263,8/27/2014 13:06,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+264,8/27/2014 13:31,Female,Canada,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+265,8/27/2014 13:47,Female,United Kingdom,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+266,8/27/2014 13:49,Female,United States,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+267,8/27/2014 13:55,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+268,8/27/2014 14:11,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+269,8/27/2014 14:13,Female,United States,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+270,8/27/2014 14:13,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+271,8/27/2014 14:16,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+272,8/27/2014 14:19,Female,United States,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+273,8/27/2014 14:27,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+274,8/27/2014 14:31,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+275,8/27/2014 14:52,Female,Sweden,Student,No,Yes,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+276,8/27/2014 15:22,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+277,8/27/2014 15:24,Female,Sweden,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+278,8/27/2014 15:29,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+279,8/27/2014 15:34,Female,United States,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+280,8/27/2014 15:35,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+281,8/27/2014 15:36,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,Yes,Yes
+282,8/27/2014 16:02,Female,United States,Student,No,Yes,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+283,8/27/2014 16:14,Female,United Kingdom,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+284,8/27/2014 16:19,Female,United Kingdom,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,Maybe,Not sure
+285,8/27/2014 16:21,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+286,8/27/2014 16:25,Female,United States,Student,Yes,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+287,8/27/2014 16:27,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+288,8/27/2014 16:35,Female,United States,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+289,8/27/2014 16:42,Female,United States,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+290,8/27/2014 17:08,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+291,8/27/2014 17:32,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+292,8/27/2014 17:37,Female,Canada,Student,Yes,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+293,8/27/2014 17:48,Female,Australia,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+294,8/27/2014 17:56,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+295,8/27/2014 18:02,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+296,8/27/2014 18:59,Female,New Zealand,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+297,8/27/2014 19:05,Female,Canada,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+298,8/27/2014 20:33,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+299,8/27/2014 20:48,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+300,8/27/2014 21:54,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,Maybe,Not sure
+301,8/27/2014 22:14,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+302,8/28/2014 1:30,Female,United States,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+303,8/28/2014 1:41,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+304,8/28/2014 1:56,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+305,8/28/2014 2:32,Female,United Kingdom,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+306,8/28/2014 3:29,Female,Australia,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+307,8/28/2014 4:02,Female,Netherlands,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+308,8/28/2014 4:16,Female,Australia,Student,No,Yes,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+309,8/28/2014 8:39,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+310,8/28/2014 9:16,Female,United Kingdom,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+311,8/28/2014 9:18,Female,India,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+312,8/28/2014 9:55,Female,Canada,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+313,8/28/2014 11:26,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+314,8/28/2014 11:38,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+315,8/28/2014 11:47,Female,United States,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+316,8/28/2014 11:50,Female,United States,Student,Yes,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+317,8/28/2014 12:10,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+318,8/28/2014 12:12,Female,United Kingdom,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,Maybe,No
+319,8/28/2014 13:08,Female,United States,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+320,8/28/2014 13:11,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+321,8/28/2014 13:26,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+322,8/28/2014 13:41,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+323,8/28/2014 14:31,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+324,8/28/2014 14:52,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+325,8/28/2014 16:54,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,Maybe,Yes
+326,8/28/2014 17:12,Female,United Kingdom,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+327,8/28/2014 17:20,Female,United Kingdom,Student,No,Yes,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+328,8/28/2014 18:21,Female,United Kingdom,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+329,8/28/2014 18:50,Female,Canada,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+330,8/28/2014 21:41,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+331,8/29/2014 5:57,Female,United Kingdom,Student,Yes,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+332,8/29/2014 8:59,Female,Canada,Student,Yes,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,Maybe,Yes
+333,8/29/2014 9:02,Female,United Kingdom,Student,No,Yes,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+334,8/29/2014 9:14,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+335,8/29/2014 9:23,Female,United States,Student,No,Yes,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+336,8/29/2014 9:51,Female,United States,Student,No,Yes,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+337,8/29/2014 9:53,Female,United States,Student,No,Yes,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+338,8/29/2014 10:06,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+339,8/29/2014 10:59,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+340,8/29/2014 11:11,Female,United States,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+341,8/29/2014 11:23,Female,Canada,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+342,8/29/2014 11:33,Female,United States,Student,No,Yes,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+343,8/29/2014 11:53,Female,United States,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+344,8/29/2014 11:54,Female,United States,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,Maybe,No
+345,8/29/2014 12:54,Female,United States,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+346,8/29/2014 14:51,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+347,8/29/2014 16:17,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+348,8/29/2014 17:04,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+349,8/29/2014 21:40,Female,Canada,Student,Yes,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+350,8/29/2014 22:08,Female,United States,Student,No,Yes,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+351,8/30/2014 19:56,Female,United Kingdom,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+352,9/2/2014 8:24,Female,United Kingdom,Student,No,Yes,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,Maybe,Yes
+353,9/4/2014 23:42,Female,United States,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+354,9/8/2014 21:30,Female,United States,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+355,9/20/2014 13:51,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+356,10/2/2014 21:25,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+357,12/1/2014 9:58,Female,Belgium,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Not sure
+358,2/21/2015 4:32,Female,Ireland,Student,No,No,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+359,2/21/2015 5:11,Female,United States,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+360,2/21/2015 9:18,Female,United Kingdom,Student,No,No,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+361,2/21/2015 18:54,Female,Ireland,Student,No,Yes,No,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,Yes
+362,2/24/2015 8:54,Female,United Kingdom,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,Maybe,Yes
+363,6/25/2015 12:24,Female,United States,Student,No,Yes,Yes,More than 2 months,Yes,Yes,No,Medium,Yes,Maybe,No,No,No
+364,8/27/2014 11:29,Female,United States,Business,,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+365,8/27/2014 11:31,Female,United States,Business,,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+366,8/27/2014 11:32,Female,United States,Business,,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+367,8/27/2014 11:37,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,Maybe,Yes
+368,8/27/2014 11:43,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+369,8/27/2014 11:49,Female,Poland,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,Maybe,Not sure
+370,8/27/2014 11:51,Female,Australia,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+371,8/27/2014 11:52,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+372,8/27/2014 12:18,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+373,8/27/2014 12:37,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+374,8/27/2014 12:39,Female,United States,Business,No,Yes,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+375,8/27/2014 12:40,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+376,8/27/2014 12:49,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+377,8/27/2014 12:49,Female,Canada,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+378,8/27/2014 12:50,Female,United States,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+379,8/27/2014 12:51,Female,United Kingdom,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,Maybe,No
+380,8/27/2014 12:53,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+381,8/27/2014 12:53,Female,South Africa,Business,Yes,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+382,8/27/2014 12:55,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+383,8/27/2014 12:57,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+384,8/27/2014 13:06,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+385,8/27/2014 13:31,Female,Canada,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+386,8/27/2014 13:47,Female,United Kingdom,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+387,8/27/2014 13:49,Female,United States,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+388,8/27/2014 13:55,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+389,8/27/2014 14:11,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+390,8/27/2014 14:13,Female,United States,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+391,8/27/2014 14:13,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+392,8/27/2014 14:16,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+393,8/27/2014 14:19,Female,United States,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+394,8/27/2014 14:27,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+395,8/27/2014 14:31,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+396,8/27/2014 14:52,Female,Sweden,Business,No,Yes,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+397,8/27/2014 15:22,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+398,8/27/2014 15:24,Female,Sweden,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+399,8/27/2014 15:29,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+400,8/27/2014 15:34,Female,United States,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+401,8/27/2014 15:35,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+402,8/27/2014 15:36,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,Yes,Yes
+403,8/27/2014 16:02,Female,United States,Business,No,Yes,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+404,8/27/2014 16:14,Female,United Kingdom,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+405,8/27/2014 16:19,Female,United Kingdom,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,Maybe,Not sure
+406,8/27/2014 16:21,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+407,8/27/2014 16:25,Female,United States,Business,Yes,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+408,8/27/2014 16:27,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+409,8/27/2014 16:35,Female,United States,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+410,8/27/2014 16:42,Female,United States,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+411,8/27/2014 17:08,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+412,8/27/2014 17:32,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+413,8/27/2014 17:37,Female,Canada,Business,Yes,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+414,8/27/2014 17:48,Female,Australia,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+415,8/27/2014 17:56,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+416,8/27/2014 18:02,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+417,8/27/2014 18:59,Female,New Zealand,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+418,8/27/2014 19:05,Female,Canada,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+419,8/27/2014 20:33,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+420,8/27/2014 20:48,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+421,8/27/2014 21:54,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,Maybe,Not sure
+422,8/27/2014 22:14,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+423,8/28/2014 1:30,Female,United States,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+424,8/28/2014 1:41,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+425,8/28/2014 1:56,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+426,8/28/2014 2:32,Female,United Kingdom,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+427,8/28/2014 3:29,Female,Australia,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+428,8/28/2014 4:02,Female,Netherlands,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+429,8/28/2014 4:16,Female,Australia,Business,No,Yes,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+430,8/28/2014 8:39,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+431,8/28/2014 9:16,Female,United Kingdom,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+432,8/28/2014 9:18,Female,India,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+433,8/28/2014 9:55,Female,Canada,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+434,8/28/2014 11:26,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+435,8/28/2014 11:38,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+436,8/28/2014 11:47,Female,United States,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+437,8/28/2014 11:50,Female,United States,Business,Yes,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+438,8/28/2014 12:10,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+439,8/28/2014 12:12,Female,United Kingdom,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,Maybe,No
+440,8/28/2014 13:08,Female,United States,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+441,8/28/2014 13:11,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+442,8/28/2014 13:26,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+443,8/28/2014 13:41,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+444,8/28/2014 14:31,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+445,8/28/2014 14:52,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+446,8/28/2014 16:54,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,Maybe,Yes
+447,8/28/2014 17:12,Female,United Kingdom,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+448,8/28/2014 17:20,Female,United Kingdom,Business,No,Yes,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+449,8/28/2014 18:21,Female,United Kingdom,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+450,8/28/2014 18:50,Female,Canada,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+451,8/28/2014 21:41,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+452,8/29/2014 5:57,Female,United Kingdom,Business,Yes,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+453,8/29/2014 8:59,Female,Canada,Business,Yes,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,Maybe,Yes
+454,8/29/2014 9:02,Female,United Kingdom,Business,No,Yes,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+455,8/29/2014 9:14,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+456,8/29/2014 9:23,Female,United States,Business,No,Yes,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+457,8/29/2014 9:51,Female,United States,Business,No,Yes,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+458,8/29/2014 9:53,Female,United States,Business,No,Yes,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+459,8/29/2014 10:06,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+460,8/29/2014 10:59,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+461,8/29/2014 11:11,Female,United States,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+462,8/29/2014 11:23,Female,Canada,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+463,8/29/2014 11:33,Female,United States,Business,No,Yes,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+464,8/29/2014 11:53,Female,United States,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+465,8/29/2014 11:54,Female,United States,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,Maybe,No
+466,8/29/2014 12:54,Female,United States,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+467,8/29/2014 14:51,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+468,8/29/2014 16:17,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+469,8/29/2014 17:04,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+470,8/29/2014 21:40,Female,Canada,Business,Yes,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+471,8/29/2014 22:08,Female,United States,Business,No,Yes,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+472,8/30/2014 19:56,Female,United Kingdom,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+473,9/2/2014 8:24,Female,United Kingdom,Business,No,Yes,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,Maybe,Yes
+474,9/4/2014 23:42,Female,United States,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+475,9/8/2014 21:30,Female,United States,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+476,9/20/2014 13:51,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+477,10/2/2014 21:25,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+478,12/1/2014 9:58,Female,Belgium,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Not sure
+479,2/21/2015 4:32,Female,Ireland,Business,No,No,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+480,2/21/2015 5:11,Female,United States,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+481,2/21/2015 9:18,Female,United Kingdom,Business,No,No,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+482,2/21/2015 18:54,Female,Ireland,Business,No,Yes,No,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes
+483,2/24/2015 8:54,Female,United Kingdom,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,Maybe,Yes
+484,6/25/2015 12:24,Female,United States,Business,No,Yes,Yes,Go out Every day,Yes,Maybe,No,Low,No,Maybe,Maybe,No,No
+485,8/27/2014 11:29,Female,United States,Student,,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+486,8/27/2014 11:31,Female,United States,Student,,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+487,8/27/2014 11:32,Female,United States,Student,,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+488,8/27/2014 11:37,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,Maybe,Yes
+489,8/27/2014 11:43,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+490,8/27/2014 11:49,Female,Poland,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,Maybe,Not sure
+491,8/27/2014 11:51,Female,Australia,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+492,8/27/2014 11:52,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+493,8/27/2014 12:18,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+494,8/27/2014 12:37,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+495,8/27/2014 12:39,Female,United States,Student,No,Yes,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+496,8/27/2014 12:40,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+497,8/27/2014 12:49,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+498,8/27/2014 12:49,Female,Canada,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+499,8/27/2014 12:50,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+500,8/27/2014 12:51,Female,United Kingdom,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,Maybe,No
+501,8/27/2014 12:53,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+502,8/27/2014 12:53,Female,South Africa,Student,Yes,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+503,8/27/2014 12:55,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+504,8/27/2014 12:57,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+505,8/27/2014 13:06,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+506,8/27/2014 13:31,Female,Canada,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+507,8/27/2014 13:47,Female,United Kingdom,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+508,8/27/2014 13:49,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+509,8/27/2014 13:55,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+510,8/27/2014 14:11,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+511,8/27/2014 14:13,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+512,8/27/2014 14:13,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+513,8/27/2014 14:16,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+514,8/27/2014 14:19,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+515,8/27/2014 14:27,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+516,8/27/2014 14:31,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+517,8/27/2014 14:52,Female,Sweden,Student,No,Yes,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+518,8/27/2014 15:22,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+519,8/27/2014 15:24,Female,Sweden,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+520,8/27/2014 15:29,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+521,8/27/2014 15:34,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+522,8/27/2014 15:35,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+523,8/27/2014 15:36,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,Yes,Yes
+524,8/27/2014 16:02,Female,United States,Student,No,Yes,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+525,8/27/2014 16:14,Female,United Kingdom,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+526,8/27/2014 16:19,Female,United Kingdom,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,Maybe,Not sure
+527,8/27/2014 16:21,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+528,8/27/2014 16:25,Female,United States,Student,Yes,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+529,8/27/2014 16:27,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+530,8/27/2014 16:35,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+531,8/27/2014 16:42,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+532,8/27/2014 17:08,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+533,8/27/2014 17:32,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+534,8/27/2014 17:37,Female,Canada,Student,Yes,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+535,8/27/2014 17:48,Female,Australia,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+536,8/27/2014 17:56,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+537,8/27/2014 18:02,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+538,8/27/2014 18:59,Female,New Zealand,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+539,8/27/2014 19:05,Female,Canada,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+540,8/27/2014 20:33,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+541,8/27/2014 20:48,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+542,8/27/2014 21:54,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,Maybe,Not sure
+543,8/27/2014 22:14,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+544,8/28/2014 1:30,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+545,8/28/2014 1:41,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+546,8/28/2014 1:56,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+547,8/28/2014 2:32,Female,United Kingdom,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+548,8/28/2014 3:29,Female,Australia,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+549,8/28/2014 4:02,Female,Netherlands,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+550,8/28/2014 4:16,Female,Australia,Student,No,Yes,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+551,8/28/2014 8:39,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+552,8/28/2014 9:16,Female,United Kingdom,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+553,8/28/2014 9:18,Female,India,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+554,8/28/2014 9:55,Female,Canada,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+555,8/28/2014 11:26,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+556,8/28/2014 11:38,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+557,8/28/2014 11:47,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+558,8/28/2014 11:50,Female,United States,Student,Yes,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+559,8/28/2014 12:10,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+560,8/28/2014 12:12,Female,United Kingdom,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,Maybe,No
+561,8/28/2014 13:08,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+562,8/28/2014 13:11,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+563,8/28/2014 13:26,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+564,8/28/2014 13:41,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+565,8/28/2014 14:31,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+566,8/28/2014 14:52,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+567,8/28/2014 16:54,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,Maybe,Yes
+568,8/28/2014 17:12,Female,United Kingdom,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+569,8/28/2014 17:20,Female,United Kingdom,Student,No,Yes,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+570,8/28/2014 18:21,Female,United Kingdom,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+571,8/28/2014 18:50,Female,Canada,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+572,8/28/2014 21:41,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+573,8/29/2014 5:57,Female,United Kingdom,Student,Yes,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+574,8/29/2014 8:59,Female,Canada,Student,Yes,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,Maybe,Yes
+575,8/29/2014 9:02,Female,United Kingdom,Student,No,Yes,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+576,8/29/2014 9:14,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+577,8/29/2014 9:23,Female,United States,Student,No,Yes,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+578,8/29/2014 9:51,Female,United States,Student,No,Yes,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+579,8/29/2014 9:53,Female,United States,Student,No,Yes,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+580,8/29/2014 10:06,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+581,8/29/2014 10:59,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+582,8/29/2014 11:11,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+583,8/29/2014 11:23,Female,Canada,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+584,8/29/2014 11:33,Female,United States,Student,No,Yes,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+585,8/29/2014 11:53,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+586,8/29/2014 11:54,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,Maybe,No
+587,8/29/2014 12:54,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+588,8/29/2014 14:51,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+589,8/29/2014 16:17,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+590,8/29/2014 17:04,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+591,8/29/2014 21:40,Female,Canada,Student,Yes,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+592,8/29/2014 22:08,Female,United States,Student,No,Yes,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+593,8/30/2014 19:56,Female,United Kingdom,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+594,9/2/2014 8:24,Female,United Kingdom,Student,No,Yes,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,Maybe,Yes
+595,9/4/2014 23:42,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+596,9/8/2014 21:30,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+597,9/20/2014 13:51,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+598,10/2/2014 21:25,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+599,12/1/2014 9:58,Female,Belgium,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Not sure
+600,2/21/2015 4:32,Female,Ireland,Student,No,No,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+601,2/21/2015 5:11,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+602,2/21/2015 9:18,Female,United Kingdom,Student,No,No,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+603,2/21/2015 18:54,Female,Ireland,Student,No,Yes,No,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,Yes
+604,2/24/2015 8:54,Female,United Kingdom,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,Maybe,Yes
+605,6/25/2015 12:24,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,Maybe,High,No,No,Yes,No,No
+606,8/27/2014 11:29,Female,United States,Business,,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+607,8/27/2014 11:31,Female,United States,Business,,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+608,8/27/2014 11:32,Female,United States,Business,,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+609,8/27/2014 11:37,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,Maybe,Yes
+610,8/27/2014 11:43,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+611,8/27/2014 11:49,Female,Poland,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,Maybe,Not sure
+612,8/27/2014 11:51,Female,Australia,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+613,8/27/2014 11:52,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+614,8/27/2014 12:18,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+615,8/27/2014 12:37,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+616,8/27/2014 12:39,Female,United States,Business,No,Yes,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+617,8/27/2014 12:40,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+618,8/27/2014 12:49,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+619,8/27/2014 12:49,Female,Canada,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+620,8/27/2014 12:50,Female,United States,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+621,8/27/2014 12:51,Female,United Kingdom,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,Maybe,No
+622,8/27/2014 12:53,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+623,8/27/2014 12:53,Female,South Africa,Business,Yes,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+624,8/27/2014 12:55,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+625,8/27/2014 12:57,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+626,8/27/2014 13:06,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+627,8/27/2014 13:31,Female,Canada,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+628,8/27/2014 13:47,Female,United Kingdom,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+629,8/27/2014 13:49,Female,United States,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+630,8/27/2014 13:55,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+631,8/27/2014 14:11,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+632,8/27/2014 14:13,Female,United States,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+633,8/27/2014 14:13,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+634,8/27/2014 14:16,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+635,8/27/2014 14:19,Female,United States,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+636,8/27/2014 14:27,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+637,8/27/2014 14:31,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+638,8/27/2014 14:52,Female,Sweden,Business,No,Yes,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+639,8/27/2014 15:22,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+640,8/27/2014 15:24,Female,Sweden,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+641,8/27/2014 15:29,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+642,8/27/2014 15:34,Female,United States,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+643,8/27/2014 15:35,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+644,8/27/2014 15:36,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,Yes,Yes
+645,8/27/2014 16:02,Female,United States,Business,No,Yes,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+646,8/27/2014 16:14,Female,United Kingdom,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+647,8/27/2014 16:19,Female,United Kingdom,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,Maybe,Not sure
+648,8/27/2014 16:21,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+649,8/27/2014 16:25,Female,United States,Business,Yes,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+650,8/27/2014 16:27,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+651,8/27/2014 16:35,Female,United States,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+652,8/27/2014 16:42,Female,United States,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+653,8/27/2014 17:08,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+654,8/27/2014 17:32,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+655,8/27/2014 17:37,Female,Canada,Business,Yes,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+656,8/27/2014 17:48,Female,Australia,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+657,8/27/2014 17:56,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+658,8/27/2014 18:02,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+659,8/27/2014 18:59,Female,New Zealand,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+660,8/27/2014 19:05,Female,Canada,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+661,8/27/2014 20:33,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+662,8/27/2014 20:48,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+663,8/27/2014 21:54,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,Maybe,Not sure
+664,8/27/2014 22:14,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+665,8/28/2014 1:30,Female,United States,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+666,8/28/2014 1:41,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+667,8/28/2014 1:56,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+668,8/28/2014 2:32,Female,United Kingdom,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+669,8/28/2014 3:29,Female,Australia,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+670,8/28/2014 4:02,Female,Netherlands,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+671,8/28/2014 4:16,Female,Australia,Business,No,Yes,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+672,8/28/2014 8:39,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+673,8/28/2014 9:16,Female,United Kingdom,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+674,8/28/2014 9:18,Female,India,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+675,8/28/2014 9:55,Female,Canada,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+676,8/28/2014 11:26,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+677,8/28/2014 11:38,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+678,8/28/2014 11:47,Female,United States,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+679,8/28/2014 11:50,Female,United States,Business,Yes,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+680,8/28/2014 12:10,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+681,8/28/2014 12:12,Female,United Kingdom,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,Maybe,No
+682,8/28/2014 13:08,Female,United States,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+683,8/28/2014 13:11,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+684,8/28/2014 13:26,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+685,8/28/2014 13:41,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+686,8/28/2014 14:31,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+687,8/28/2014 14:52,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+688,8/28/2014 16:54,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,Maybe,Yes
+689,8/28/2014 17:12,Female,United Kingdom,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+690,8/28/2014 17:20,Female,United Kingdom,Business,No,Yes,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+691,8/28/2014 18:21,Female,United Kingdom,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+692,8/28/2014 18:50,Female,Canada,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+693,8/28/2014 21:41,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+694,8/29/2014 5:57,Female,United Kingdom,Business,Yes,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+695,8/29/2014 8:59,Female,Canada,Business,Yes,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,Maybe,Yes
+696,8/29/2014 9:02,Female,United Kingdom,Business,No,Yes,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+697,8/29/2014 9:14,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+698,8/29/2014 9:23,Female,United States,Business,No,Yes,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+699,8/29/2014 9:51,Female,United States,Business,No,Yes,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+700,8/29/2014 9:53,Female,United States,Business,No,Yes,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+701,8/29/2014 10:06,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+702,8/29/2014 10:59,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+703,8/29/2014 11:11,Female,United States,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+704,8/29/2014 11:23,Female,Canada,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+705,8/29/2014 11:33,Female,United States,Business,No,Yes,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+706,8/29/2014 11:53,Female,United States,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+707,8/29/2014 11:54,Female,United States,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,Maybe,No
+708,8/29/2014 12:54,Female,United States,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+709,8/29/2014 14:51,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+710,8/29/2014 16:17,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+711,8/29/2014 17:04,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+712,8/29/2014 21:40,Female,Canada,Business,Yes,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+713,8/29/2014 22:08,Female,United States,Business,No,Yes,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+714,8/30/2014 19:56,Female,United Kingdom,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+715,9/2/2014 8:24,Female,United Kingdom,Business,No,Yes,No,More than 2 months,Yes,No,No,High,No,No,Maybe,Maybe,Yes
+716,9/4/2014 23:42,Female,United States,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+717,9/8/2014 21:30,Female,United States,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+718,9/20/2014 13:51,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+719,10/2/2014 21:25,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+720,12/1/2014 9:58,Female,Belgium,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Not sure
+721,2/21/2015 4:32,Female,Ireland,Business,No,No,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+722,2/21/2015 5:11,Female,United States,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+723,2/21/2015 9:18,Female,United Kingdom,Business,No,No,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+724,2/21/2015 18:54,Female,Ireland,Business,No,Yes,No,More than 2 months,Yes,No,No,High,No,No,Maybe,No,Yes
+725,2/24/2015 8:54,Female,United Kingdom,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,Maybe,Yes
+726,6/25/2015 12:24,Female,United States,Business,No,Yes,Yes,More than 2 months,Yes,No,No,High,No,No,Maybe,No,No
+727,8/27/2014 11:29,Female,United States,Housewife,,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+728,8/27/2014 11:31,Female,United States,Housewife,,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+729,8/27/2014 11:32,Female,United States,Housewife,,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+730,8/27/2014 11:37,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,Maybe,Yes
+731,8/27/2014 11:43,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+732,8/27/2014 11:49,Female,Poland,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,Maybe,Not sure
+733,8/27/2014 11:51,Female,Australia,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+734,8/27/2014 11:52,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+735,8/27/2014 12:18,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+736,8/27/2014 12:37,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+737,8/27/2014 12:39,Female,United States,Housewife,No,Yes,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+738,8/27/2014 12:40,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+739,8/27/2014 12:49,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+740,8/27/2014 12:49,Female,Canada,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+741,8/27/2014 12:50,Female,United States,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+742,8/27/2014 12:51,Female,United Kingdom,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,Maybe,No
+743,8/27/2014 12:53,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+744,8/27/2014 12:53,Female,South Africa,Housewife,Yes,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+745,8/27/2014 12:55,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+746,8/27/2014 12:57,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+747,8/27/2014 13:06,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+748,8/27/2014 13:31,Female,Canada,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+749,8/27/2014 13:47,Female,United Kingdom,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+750,8/27/2014 13:49,Female,United States,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+751,8/27/2014 13:55,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+752,8/27/2014 14:11,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+753,8/27/2014 14:13,Female,United States,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+754,8/27/2014 14:13,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+755,8/27/2014 14:16,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+756,8/27/2014 14:19,Female,United States,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+757,8/27/2014 14:27,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+758,8/27/2014 14:31,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+759,8/27/2014 14:52,Female,Sweden,Housewife,No,Yes,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+760,8/27/2014 15:22,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+761,8/27/2014 15:24,Female,Sweden,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+762,8/27/2014 15:29,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+763,8/27/2014 15:34,Female,United States,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+764,8/27/2014 15:35,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+765,8/27/2014 15:36,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,Yes,Yes
+766,8/27/2014 16:02,Female,United States,Housewife,No,Yes,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+767,8/27/2014 16:14,Female,United Kingdom,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+768,8/27/2014 16:19,Female,United Kingdom,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,Maybe,Not sure
+769,8/27/2014 16:21,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+770,8/27/2014 16:25,Female,United States,Housewife,Yes,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+771,8/27/2014 16:27,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+772,8/27/2014 16:35,Female,United States,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+773,8/27/2014 16:42,Female,United States,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+774,8/27/2014 17:08,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+775,8/27/2014 17:32,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+776,8/27/2014 17:37,Female,Canada,Housewife,Yes,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+777,8/27/2014 17:48,Female,Australia,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+778,8/27/2014 17:56,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+779,8/27/2014 18:02,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+780,8/27/2014 18:59,Female,New Zealand,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+781,8/27/2014 19:05,Female,Canada,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+782,8/27/2014 20:33,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+783,8/27/2014 20:48,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+784,8/27/2014 21:54,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,Maybe,Not sure
+785,8/27/2014 22:14,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+786,8/28/2014 1:30,Female,United States,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+787,8/28/2014 1:41,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+788,8/28/2014 1:56,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+789,8/28/2014 2:32,Female,United Kingdom,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+790,8/28/2014 3:29,Female,Australia,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+791,8/28/2014 4:02,Female,Netherlands,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+792,8/28/2014 4:16,Female,Australia,Housewife,No,Yes,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+793,8/28/2014 8:39,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+794,8/28/2014 9:16,Female,United Kingdom,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+795,8/28/2014 9:18,Female,India,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+796,8/28/2014 9:55,Female,Canada,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+797,8/28/2014 11:26,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+798,8/28/2014 11:38,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+799,8/28/2014 11:47,Female,United States,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+800,8/28/2014 11:50,Female,United States,Housewife,Yes,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+801,8/28/2014 12:10,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+802,8/28/2014 12:12,Female,United Kingdom,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,Maybe,No
+803,8/28/2014 13:08,Female,United States,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+804,8/28/2014 13:11,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+805,8/28/2014 13:26,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+806,8/28/2014 13:41,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+807,8/28/2014 14:31,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+808,8/28/2014 14:52,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+809,8/28/2014 16:54,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,Maybe,Yes
+810,8/28/2014 17:12,Female,United Kingdom,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+811,8/28/2014 17:20,Female,United Kingdom,Housewife,No,Yes,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+812,8/28/2014 18:21,Female,United Kingdom,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+813,8/28/2014 18:50,Female,Canada,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+814,8/28/2014 21:41,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+815,8/29/2014 5:57,Female,United Kingdom,Housewife,Yes,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+816,8/29/2014 8:59,Female,Canada,Housewife,Yes,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,Maybe,Yes
+817,8/29/2014 9:02,Female,United Kingdom,Housewife,No,Yes,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+818,8/29/2014 9:14,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+819,8/29/2014 9:23,Female,United States,Housewife,No,Yes,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+820,8/29/2014 9:51,Female,United States,Housewife,No,Yes,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+821,8/29/2014 9:53,Female,United States,Housewife,No,Yes,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+822,8/29/2014 10:06,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+823,8/29/2014 10:59,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+824,8/29/2014 11:11,Female,United States,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+825,8/29/2014 11:23,Female,Canada,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+826,8/29/2014 11:33,Female,United States,Housewife,No,Yes,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+827,8/29/2014 11:53,Female,United States,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+828,8/29/2014 11:54,Female,United States,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,Maybe,No
+829,8/29/2014 12:54,Female,United States,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+830,8/29/2014 14:51,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+831,8/29/2014 16:17,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+832,8/29/2014 17:04,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+833,8/29/2014 21:40,Female,Canada,Housewife,Yes,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+834,8/29/2014 22:08,Female,United States,Housewife,No,Yes,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+835,8/30/2014 19:56,Female,United Kingdom,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+836,9/2/2014 8:24,Female,United Kingdom,Housewife,No,Yes,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,Maybe,Yes
+837,9/4/2014 23:42,Female,United States,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+838,9/8/2014 21:30,Female,United States,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+839,9/20/2014 13:51,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+840,10/2/2014 21:25,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+841,12/1/2014 9:58,Female,Belgium,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Not sure
+842,2/21/2015 4:32,Female,Ireland,Housewife,No,No,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+843,2/21/2015 5:11,Female,United States,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+844,2/21/2015 9:18,Female,United Kingdom,Housewife,No,No,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+845,2/21/2015 18:54,Female,Ireland,Housewife,No,Yes,No,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,Yes
+846,2/24/2015 8:54,Female,United Kingdom,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,Maybe,Yes
+847,6/25/2015 12:24,Female,United States,Housewife,No,Yes,Yes,15-30 days,Yes,Yes,No,Low,Yes,No,Maybe,No,No
+848,8/27/2014 11:29,Female,United States,Housewife,,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+849,8/27/2014 11:31,Female,United States,Housewife,,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+850,8/27/2014 11:32,Female,United States,Housewife,,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+851,8/27/2014 11:37,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,Maybe,Yes
+852,8/27/2014 11:43,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+853,8/27/2014 11:49,Female,Poland,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,Maybe,Not sure
+854,8/27/2014 11:51,Female,Australia,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+855,8/27/2014 11:52,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+856,8/27/2014 12:18,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+857,8/27/2014 12:37,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+858,8/27/2014 12:39,Female,United States,Housewife,No,Yes,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+859,8/27/2014 12:40,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+860,8/27/2014 12:49,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+861,8/27/2014 12:49,Female,Canada,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+862,8/27/2014 12:50,Female,United States,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+863,8/27/2014 12:51,Female,United Kingdom,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,Maybe,No
+864,8/27/2014 12:53,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+865,8/27/2014 12:53,Female,South Africa,Housewife,Yes,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+866,8/27/2014 12:55,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+867,8/27/2014 12:57,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+868,8/27/2014 13:06,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+869,8/27/2014 13:31,Female,Canada,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+870,8/27/2014 13:47,Female,United Kingdom,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+871,8/27/2014 13:49,Female,United States,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+872,8/27/2014 13:55,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+873,8/27/2014 14:11,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+874,8/27/2014 14:13,Female,United States,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+875,8/27/2014 14:13,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+876,8/27/2014 14:16,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+877,8/27/2014 14:19,Female,United States,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+878,8/27/2014 14:27,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+879,8/27/2014 14:31,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+880,8/27/2014 14:52,Female,Sweden,Housewife,No,Yes,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+881,8/27/2014 15:22,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+882,8/27/2014 15:24,Female,Sweden,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+883,8/27/2014 15:29,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+884,8/27/2014 15:34,Female,United States,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+885,8/27/2014 15:35,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+886,8/27/2014 15:36,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,Yes,Yes
+887,8/27/2014 16:02,Female,United States,Housewife,No,Yes,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+888,8/27/2014 16:14,Female,United Kingdom,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+889,8/27/2014 16:19,Female,United Kingdom,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,Maybe,Not sure
+890,8/27/2014 16:21,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+891,8/27/2014 16:25,Female,United States,Housewife,Yes,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+892,8/27/2014 16:27,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+893,8/27/2014 16:35,Female,United States,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+894,8/27/2014 16:42,Female,United States,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+895,8/27/2014 17:08,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+896,8/27/2014 17:32,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+897,8/27/2014 17:37,Female,Canada,Housewife,Yes,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+898,8/27/2014 17:48,Female,Australia,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+899,8/27/2014 17:56,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+900,8/27/2014 18:02,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+901,8/27/2014 18:59,Female,New Zealand,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+902,8/27/2014 19:05,Female,Canada,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+903,8/27/2014 20:33,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+904,8/27/2014 20:48,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+905,8/27/2014 21:54,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,Maybe,Not sure
+906,8/27/2014 22:14,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+907,8/28/2014 1:30,Female,United States,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+908,8/28/2014 1:41,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+909,8/28/2014 1:56,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+910,8/28/2014 2:32,Female,United Kingdom,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+911,8/28/2014 3:29,Female,Australia,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+912,8/28/2014 4:02,Female,Netherlands,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+913,8/28/2014 4:16,Female,Australia,Housewife,No,Yes,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+914,8/28/2014 8:39,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+915,8/28/2014 9:16,Female,United Kingdom,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+916,8/28/2014 9:18,Female,India,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+917,8/28/2014 9:55,Female,Canada,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+918,8/28/2014 11:26,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+919,8/28/2014 11:38,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+920,8/28/2014 11:47,Female,United States,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+921,8/28/2014 11:50,Female,United States,Housewife,Yes,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+922,8/28/2014 12:10,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+923,8/28/2014 12:12,Female,United Kingdom,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,Maybe,No
+924,8/28/2014 13:08,Female,United States,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+925,8/28/2014 13:11,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+926,8/28/2014 13:26,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+927,8/28/2014 13:41,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+928,8/28/2014 14:31,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+929,8/28/2014 14:52,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+930,8/28/2014 16:54,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,Maybe,Yes
+931,8/28/2014 17:12,Female,United Kingdom,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+932,8/28/2014 17:20,Female,United Kingdom,Housewife,No,Yes,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+933,8/28/2014 18:21,Female,United Kingdom,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+934,8/28/2014 18:50,Female,Canada,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+935,8/28/2014 21:41,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+936,8/29/2014 5:57,Female,United Kingdom,Housewife,Yes,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+937,8/29/2014 8:59,Female,Canada,Housewife,Yes,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,Maybe,Yes
+938,8/29/2014 9:02,Female,United Kingdom,Housewife,No,Yes,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+939,8/29/2014 9:14,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+940,8/29/2014 9:23,Female,United States,Housewife,No,Yes,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+941,8/29/2014 9:51,Female,United States,Housewife,No,Yes,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+942,8/29/2014 9:53,Female,United States,Housewife,No,Yes,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+943,8/29/2014 10:06,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+944,8/29/2014 10:59,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+945,8/29/2014 11:11,Female,United States,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+946,8/29/2014 11:23,Female,Canada,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+947,8/29/2014 11:33,Female,United States,Housewife,No,Yes,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+948,8/29/2014 11:53,Female,United States,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+949,8/29/2014 11:54,Female,United States,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,Maybe,No
+950,8/29/2014 12:54,Female,United States,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+951,8/29/2014 14:51,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+952,8/29/2014 16:17,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+953,8/29/2014 17:04,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+954,8/29/2014 21:40,Female,Canada,Housewife,Yes,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+955,8/29/2014 22:08,Female,United States,Housewife,No,Yes,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+956,8/30/2014 19:56,Female,United Kingdom,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+957,9/2/2014 8:24,Female,United Kingdom,Housewife,No,Yes,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,Maybe,Yes
+958,9/4/2014 23:42,Female,United States,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+959,9/8/2014 21:30,Female,United States,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+960,9/20/2014 13:51,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+961,10/2/2014 21:25,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+962,12/1/2014 9:58,Female,Belgium,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Not sure
+963,2/21/2015 4:32,Female,Ireland,Housewife,No,No,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+964,2/21/2015 5:11,Female,United States,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+965,2/21/2015 9:18,Female,United Kingdom,Housewife,No,No,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+966,2/21/2015 18:54,Female,Ireland,Housewife,No,Yes,No,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,Yes
+967,2/24/2015 8:54,Female,United Kingdom,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,Maybe,Yes
+968,6/25/2015 12:24,Female,United States,Housewife,No,Yes,Yes,1-14 days,No,No,Maybe,Medium,No,No,Maybe,No,No
+969,8/27/2014 11:29,Female,United States,Student,,No,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Not sure
+970,8/27/2014 11:31,Female,United States,Student,,Yes,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,No
+971,8/27/2014 11:32,Female,United States,Student,,Yes,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Yes
+972,8/27/2014 11:37,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,Maybe,Yes
+973,8/27/2014 11:43,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Yes
+974,8/27/2014 11:49,Female,Poland,Student,No,No,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,Maybe,Not sure
+975,8/27/2014 11:51,Female,Australia,Student,No,Yes,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Not sure
+976,8/27/2014 11:52,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,No
+977,8/27/2014 12:18,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Not sure
+978,8/27/2014 12:37,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,No
+979,8/27/2014 12:39,Female,United States,Student,No,Yes,No,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Not sure
+980,8/27/2014 12:40,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Not sure
+981,8/27/2014 12:49,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,No
+982,8/27/2014 12:49,Female,Canada,Student,No,Yes,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Yes
+983,8/27/2014 12:50,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Not sure
+984,8/27/2014 12:51,Female,United Kingdom,Student,No,No,No,1-14 days,Yes,Maybe,No,Medium,No,No,No,Maybe,No
+985,8/27/2014 12:53,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Not sure
+986,8/27/2014 12:53,Female,South Africa,Student,Yes,Yes,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Yes
+987,8/27/2014 12:55,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Not sure
+988,8/27/2014 12:57,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,No
+989,8/27/2014 13:06,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Yes
+990,8/27/2014 13:31,Female,Canada,Student,No,Yes,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Yes
+991,8/27/2014 13:47,Female,United Kingdom,Student,No,No,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Not sure
+992,8/27/2014 13:49,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,No
+993,8/27/2014 13:55,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Yes
+994,8/27/2014 14:11,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Not sure
+995,8/27/2014 14:13,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Yes
+996,8/27/2014 14:13,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Yes
+997,8/27/2014 14:16,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Not sure
+998,8/27/2014 14:19,Female,United States,Student,No,No,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Yes
+999,8/27/2014 14:27,Female,United States,Student,No,Yes,Yes,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Yes
+1000,8/27/2014 14:31,Female,United States,Student,No,No,No,1-14 days,Yes,Maybe,No,Medium,No,No,No,No,Yes
